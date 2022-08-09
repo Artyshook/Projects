@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/http//Artyshook.github.io/MyProjects/static/css/main.e6c13ad2.css",
+    "main.js": "/http//Artyshook.github.io/MyProjects/static/js/main.686d5584.js",
+    "static/media/2.webp": "/http//Artyshook.github.io/MyProjects/static/media/2.0c7194edb237ddb4abd6.webp",
+    "index.html": "/http//Artyshook.github.io/MyProjects/index.html",
+    "main.e6c13ad2.css.map": "/http//Artyshook.github.io/MyProjects/static/css/main.e6c13ad2.css.map",
+    "main.686d5584.js.map": "/http//Artyshook.github.io/MyProjects/static/js/main.686d5584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.686d5584.js"
+  ]
+}
